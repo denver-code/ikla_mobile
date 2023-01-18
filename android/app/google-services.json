@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660166537720",
+    "project_id": "ikla-40af1",
+    "storage_bucket": "ikla-40af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660166537720:android:e01de0694cd0b65ae4a60d",
+        "android_client_info": {
+          "package_name": "com.ikla.mag.ikla_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660166537720-1oppq7oqth77vcrq45m1cc2npkh3ih6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvU6wVYizpFsYp942Y8H8K8XVEH7UJZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660166537720-1oppq7oqth77vcrq45m1cc2npkh3ih6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
