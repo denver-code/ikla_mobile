@@ -9,6 +9,10 @@ void main() {
     GetMaterialApp(
       title: "Application",
       initialRoute: AppPages.INITIAL,
+      theme: ThemeData(
+        fontFamily: "eUkraine",
+      ),
+      debugShowCheckedModeBanner: false,
       getPages: AppPages.routes,
     ),
   );

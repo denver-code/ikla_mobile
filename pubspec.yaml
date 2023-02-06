@@ -21,4 +21,14 @@ dev_dependencies:
 
 flutter: 
   uses-material-design: true
-
+  assets:
+    - assets/images/
+  fonts:
+    - family: eUkraine
+      fonts:
+        - asset: assets/fonts/eUkraine/e-Ukraine-Bold.ttf
+        - asset: assets/fonts/eUkraine/e-Ukraine-Light.ttf
+        - asset: assets/fonts/eUkraine/e-Ukraine-Regular.ttf
+    - family: KyivType
+      fonts:
+        - asset: assets/fonts/KyivType/KyivTypeTitling-Heavy3.ttf
