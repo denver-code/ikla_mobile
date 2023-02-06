@@ -1,1 +1,0 @@
-export 'package:ikla_mobile/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
