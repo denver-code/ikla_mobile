@@ -4,9 +4,11 @@ part of 'app_pages.dart';
 abstract class Routes {
   Routes._();
   static const AUTH = _Paths.AUTH;
+  static const FEED = _Paths.FEED;
 }
 
 abstract class _Paths {
   _Paths._();
-  static const AUTH = '/AUTH';
+  static const AUTH = '/auth';
+  static const FEED = '/feed';
 }

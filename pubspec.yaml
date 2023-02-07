@@ -29,6 +29,9 @@ flutter:
         - asset: assets/fonts/eUkraine/e-Ukraine-Bold.ttf
         - asset: assets/fonts/eUkraine/e-Ukraine-Light.ttf
         - asset: assets/fonts/eUkraine/e-Ukraine-Regular.ttf
+    - family: eUkraineHead
+      fonts:
+        - asset: assets/fonts/eUkraine/e-UkraineHead-Bold.ttf
     - family: KyivType
       fonts:
         - asset: assets/fonts/KyivType/KyivTypeTitling-Heavy3.ttf

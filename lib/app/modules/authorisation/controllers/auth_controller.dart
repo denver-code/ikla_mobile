@@ -1,5 +1,7 @@
 import 'package:get/get.dart';
 
 class AuthController extends GetxController {
-  void withoutAuth() {}
+  withoutAuth() {
+    Get.offNamed("/feed");
+  }
 }
